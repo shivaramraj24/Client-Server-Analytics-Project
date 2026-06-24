@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "analytics_lib",
+    "server",
+    "client",
+    "interface",
+]
+
